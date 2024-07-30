@@ -1,0 +1,35 @@
+.left,
+.right{
+    display: block;
+    width: 100px;
+    height: .2rem;
+    /* background-color: white; */
+    margin-right: 2rem;
+}
+
+.mt{
+    margin-top: 85px;
+    min-height: 80vh;
+}
+
+#btnSubmit{
+    background-color: #1ABC9C;
+    color: #fff;
+}
+
+.main-bg{
+    background-color: #1ABC9C;
+}
+
+.nav-link.active{
+    background-color: #1ABC9C;
+    padding: 8px;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+.icons i{
+    padding: .5rem !important;
+    border: 1px solid #fff !important;
+    border-radius: 50% !important;
+}

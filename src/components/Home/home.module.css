@@ -1,0 +1,8 @@
+:root{
+    --secondary-color: #1ABC9C;
+}
+
+.bgHome{
+    background-color: var(--secondary-color);
+    margin-top: 85px;
+}

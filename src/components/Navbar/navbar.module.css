@@ -1,0 +1,8 @@
+
+:root{
+    --main-color: #2C3E50;
+}
+
+.bgNav{
+    background-color: var(--main-color);
+}
